@@ -1,0 +1,81 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="D:/IdeaProjects/openapi" />
+        <option value="D:/IdeaProjects/promotion" />
+        <option value="D:/myworkspace/项目/5.openapi/2.草莓网/OpenAPI_签名demo_rsa/OpenAPI_demo_rsa_payment" />
+        <option value="D:/IdeaProjects/mybatis-learning" />
+        <option value="D:/IdeaProjects/test" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="D:/IdeaProjects/promotion" />
+        <option value="D:/IdeaProjects/openapi" />
+      </list>
+    </option>
+    <option name="lastPath" value="D:/IdeaProjects/openapi" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="D:/IdeaProjects/mybatis-learning">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-183.4588.61" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1545128993794" />
+              <option name="buildTimestamp" value="1543929256993" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/IdeaProjects/openapi">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-183.4886.37" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1545700661577" />
+              <option name="buildTimestamp" value="1545059402046" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/IdeaProjects/promotion">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-183.4886.37" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1545700661577" />
+              <option name="buildTimestamp" value="1545059402046" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/IdeaProjects/test">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-183.4588.61" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1545046693092" />
+              <option name="buildTimestamp" value="1543929261869" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/myworkspace/项目/5.openapi/2.草莓网/OpenAPI_签名demo_rsa/OpenAPI_demo_rsa_payment">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-183.4886.37" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1545615812952" />
+              <option name="buildTimestamp" value="1545059402046" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="D:/IdeaProjects" />
+  </component>
+</application>

@@ -1,0 +1,59 @@
+<application>
+  <component name="DimensionService">
+    <location key="new project wizard.0.0.1680.1050" x="489" y="26" />
+    <location key="WELCOME_SCREEN.0.0.1680.1050" x="842" y="427" />
+    <location key="FileChooserDialogImpl.0.0.1680.1050" x="620" y="193" />
+    <location key="#Maven_environment.0.0.1680.1050" x="633" y="393" />
+    <location key="NewModule_or_Project.wizard.0.0.1680.1050" x="477" y="172" />
+    <location key="#Project_Structure.0.0.1680.1050" x="320" y="78" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1680.1050" x="520" y="327" />
+    <location key="ProcessPopupWindow.0.0.1680.1050" x="732" y="791" />
+    <location key="SettingsEditor.0.0.1680.1050" x="506" y="157" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1680.1050" x="597" y="400" />
+    <location key="CommitChangelistDialog2.0.0.1680.1050" x="509" y="132" />
+    <location key="IgnoreUnversionedDialog.0.0.1680.1050" x="658" y="409" />
+    <location key="IgnoredSettingsDialog.0.0.1680.1050" x="556" y="369" />
+    <location key="find.popup.0.0.1680.1050" x="449" y="116" />
+    <location key="search.everywhere.popup.0.0.1680.1050" x="675" y="224" />
+    <location key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.0.0.1680.1050" x="686" y="394" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1680.1050" x="645" y="213" />
+    <location key="StructurePopup.0.0.1680.1050" x="568" y="235" />
+    <location key="#Inspections.0.0.1680.1050" x="472" y="182" />
+    <location key="extract.method.dialog.0.0.1680.1050" x="570" y="271" />
+    <location key="RollbackChangesDialog.0.0.1680.1050" x="548" y="198" />
+    <location key="run.anything.popup.0.0.1680.1050" x="495" y="227" />
+    <location key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1.0.0.1680.1050" x="583" y="342" />
+    <location key="#Notifications.0.0.1680.1050" x="589" y="234" />
+    <location key="DiffContextDialog.0.0.1680.1050" x="160" y="82" />
+    <location key="git4idea.merge.GitPullDialog.0.0.1680.1050" x="539" y="295" />
+    <location key="Vcs.Push.Dialog.0.0.1680.1050" x="323" y="223" />
+    <location key="bookmarks.0.0.1680.1050" x="167" y="330" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1680.1050" x="294" y="159" />
+    <location key="com.intellij.testIntegration.createTest.CreateTestDialog.0.0.1680.1050" x="611" y="244" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.0.0.1680.1050" x="501" y="152" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1680.1050" x="570" y="259" />
+    <location key="git4idea.ui.GitStashDialog.0.0.1680.1050" x="585" y="404" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1680.1050" x="570" y="250" />
+    <location key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2.0.0.1680.1050" x="384" y="224" />
+    <size key="ProcessPopupWindow.0.0.1680.1050" width="400" height="196" />
+    <size key="find.popup.0.0.1680.1050" width="782" height="777" />
+    <size key="search.everywhere.popup.0.0.1680.1050" width="757" height="678" />
+    <size key="StructurePopup.0.0.1680.1050" width="582" height="524" />
+    <size key="bookmarks.0.0.1680.1050" width="864" height="350" />
+    <size key="GridCell.Tab.0.right.0.0.1680.1050" width="1636" height="394" />
+    <size key="GridCell.Tab.0.left.0.0.1680.1050" width="1636" height="394" />
+    <size key="GridCell.Tab.0.center.0.0.1680.1050" width="1636" height="394" />
+    <size key="GridCell.Tab.0.bottom.0.0.1680.1050" width="1636" height="394" />
+    <size key="GridCell.Tab.1.left.0.0.1680.1050" width="1636" height="394" />
+    <size key="GridCell.Tab.1.center.0.0.1680.1050" width="1636" height="394" />
+    <size key="GridCell.Tab.1.right.0.0.1680.1050" width="1636" height="394" />
+    <size key="GridCell.Tab.1.bottom.0.0.1680.1050" width="1636" height="394" />
+    <size key="GridCell.Tab.2.left.0.0.1680.1050" width="1403" height="286" />
+    <size key="GridCell.Tab.2.center.0.0.1680.1050" width="1403" height="286" />
+    <size key="GridCell.Tab.2.right.0.0.1680.1050" width="1403" height="286" />
+    <size key="GridCell.Tab.2.bottom.0.0.1680.1050" width="1403" height="286" />
+    <size key="DebuggerActiveHint.0.0.1680.1050" width="1175" height="455" />
+    <size key="Vcs.CompareWithSelectedRevision.Popup.0.0.1680.1050" width="464" height="421" />
+    <size key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2.0.0.1680.1050" width="911" height="606" />
+  </component>
+</application>
