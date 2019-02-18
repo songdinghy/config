@@ -62,7 +62,6 @@
         <option value="aj.itd.class" />
         <option value="aj.itd.method" />
         <option value="aj.itd.field" />
-        <option value="markdown.header" />
         <option value="gr.anonymous.class" />
         <option value="gr.class.super" />
         <option value="gr.script.class" />
@@ -87,6 +86,10 @@
         <option value="Css.ampersand.selector" />
         <option value="dom.elementClass" />
         <option value="dom.namespaceKey" />
+        <option value="markdown.referenceable-text.index" />
+        <option value="markdown.plain-text-element.index" />
+        <option value="markdown.link-element.index" />
+        <option value="markdown.flexmark.example.option.index" />
         <option value="java.module.name" />
         <option value="java.class.fqn" />
         <option value="java.class.shortname" />

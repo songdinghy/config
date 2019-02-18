@@ -1,3 +1,4 @@
 DevKit
 com.intellij.uiDesigner
+org.intellij.plugins.markdown
 org.jetbrains.android

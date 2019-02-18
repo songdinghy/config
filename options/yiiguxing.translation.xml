@@ -1,0 +1,44 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Actor" />
+      <item value="Compensation" />
+      <item value="introspect" />
+      <item value="Disconf Full Override Property Configurer" />
+      <item value="Markdown language support for IntelliJ platform&#10;A Markdown plugin with GFM and a matching preview style.&#10;Get Markdown Navigator enhanced edition to unlock all productivity features.&#10;Document with pleasure!&#10;Work with Markdown files like you do with other languages in the IDE, by getting full support for:" />
+      <item value="Plugin for writing Gauge tests" />
+      <item value="Plugin for writing Gauge tests&#10;The plugin provides the following basic features:&#10;Basic language parsing and highlighting&#10;Project Creation&#10;Auto completion&#10;Navigation from step to implementation&#10;Quick Fix for unimplemented steps&#10;Execution and Debugging specs&#10;Support for Concepts&#10;Refactoring support" />
+      <item value="distributed" />
+      <item value="分布式" />
+      <item value="disribute" />
+      <item value="test 02 Activate Account Facade" />
+      <item value="Pattern Layout" />
+      <item value="Policies" />
+      <item value="Default Rollover Strategy" />
+      <item value="Async Logger" />
+      <item value="Loan Limit Test Suite" />
+      <item value="额度" />
+      <item value="Limit Account" />
+      <item value="Dead store to local variable This instruction assigns a value to a local variable, but the value is not read or used in any subsequent instruction. Often, this indicates an error, because the value computed is never used. Note that Sun's javac compiler often generates dead stores for final local variables. Because FindBugs is a bytecode-based tool, there is no easy way to eliminate these false positives." />
+      <item value="Dead store to local variable&#10;This instruction assigns a value to a local variable, but the value is not read or used in any subsequent instruction. Often, this indicates an error, because the value computed is never used.&#10;Note that Sun's javac compiler often generates dead stores for final local variables. Because FindBugs is a bytecode-based tool, there is no easy way to eliminate these false positives." />
+      <item value="param Convert" />
+      <item value="is Primitive" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="15" />
+        <entry key="ENGLISH" value="16" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+    <option name="translator" value="ai.youdao" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="26722ab5e4ed7579" />
+        <option name="appKeyConfigured" value="true" />
+      </youdao-translate>
+    </option>
+  </component>
+</application>

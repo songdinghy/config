@@ -2,31 +2,43 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
-        <option value="D:/IdeaProjects/openapi" />
+        <option value="D:/myworkspace/code/github/learning" />
+        <option value="D:/IdeaProjects/loan" />
         <option value="D:/IdeaProjects/promotion" />
-        <option value="D:/myworkspace/项目/5.openapi/2.草莓网/OpenAPI_签名demo_rsa/OpenAPI_demo_rsa_payment" />
+        <option value="D:/IdeaProjects/spring-learning" />
         <option value="D:/IdeaProjects/mybatis-learning" />
-        <option value="D:/IdeaProjects/test" />
+        <option value="D:/IdeaProjects/openapi" />
       </list>
     </option>
     <option name="openPaths">
       <list>
-        <option value="D:/IdeaProjects/promotion" />
-        <option value="D:/IdeaProjects/openapi" />
+        <option value="D:/IdeaProjects/loan" />
+        <option value="D:/myworkspace/code/github/learning" />
       </list>
     </option>
-    <option name="lastPath" value="D:/IdeaProjects/openapi" />
+    <option name="lastPath" value="D:/myworkspace/code/github/learning" />
     <option name="pid" value="" />
     <option name="additionalInfo">
       <map>
+        <entry key="D:/IdeaProjects/loan">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-183.4886.37" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1550472567072" />
+              <option name="buildTimestamp" value="1545059407199" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="D:/IdeaProjects/mybatis-learning">
           <value>
             <RecentProjectMetaInfo>
-              <option name="build" value="IU-183.4588.61" />
+              <option name="build" value="IU-183.4886.37" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1545128993794" />
-              <option name="buildTimestamp" value="1543929256993" />
+              <option name="projectOpenTimestamp" value="1548038875815" />
+              <option name="buildTimestamp" value="1545059440886" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -36,7 +48,7 @@
               <option name="build" value="IU-183.4886.37" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1545700661577" />
+              <option name="projectOpenTimestamp" value="1545723730313" />
               <option name="buildTimestamp" value="1545059402046" />
             </RecentProjectMetaInfo>
           </value>
@@ -47,8 +59,19 @@
               <option name="build" value="IU-183.4886.37" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1545700661577" />
-              <option name="buildTimestamp" value="1545059402046" />
+              <option name="projectOpenTimestamp" value="1550019450232" />
+              <option name="buildTimestamp" value="1545059448135" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/IdeaProjects/spring-learning">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-183.4886.37" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1549959074925" />
+              <option name="buildTimestamp" value="1545059448135" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -60,6 +83,28 @@
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="projectOpenTimestamp" value="1545046693092" />
               <option name="buildTimestamp" value="1543929261869" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/myworkspace/code/github/learning">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-183.4886.37" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1550472567072" />
+              <option name="buildTimestamp" value="1545059407199" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/myworkspace/code/github/spring-learning">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-183.4886.37" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1547171872429" />
+              <option name="buildTimestamp" value="1545059435930" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

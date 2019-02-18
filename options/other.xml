@@ -122,78 +122,27 @@
         <expanded-state>
           <State />
           <State>
-            <id>Abstraction issuesJava</id>
+            <id>CodeSpring CoreSpring</id>
           </State>
           <State>
-            <id>Code maturityJava</id>
+            <id>Spring</id>
           </State>
           <State>
-            <id>Code style issuesJava</id>
+            <id>Spring CoreSpring</id>
           </State>
           <State>
-            <id>Control flow issuesJava</id>
+            <id>Struts</id>
           </State>
           <State>
-            <id>Error handlingJava</id>
+            <id>Struts 1Struts</id>
           </State>
           <State>
-            <id>Error handlingJavaScript</id>
-          </State>
-          <State>
-            <id>General</id>
-          </State>
-          <State>
-            <id>GeneralJavaScript</id>
-          </State>
-          <State>
-            <id>Google Web Toolkit</id>
-          </State>
-          <State>
-            <id>Inheritance issuesJava</id>
-          </State>
-          <State>
-            <id>Internationalization</id>
-          </State>
-          <State>
-            <id>Java</id>
-          </State>
-          <State>
-            <id>JavaScript</id>
-          </State>
-          <State>
-            <id>JavadocJava</id>
-          </State>
-          <State>
-            <id>Kotlin</id>
-          </State>
-          <State>
-            <id>Other problemsKotlin</id>
-          </State>
-          <State>
-            <id>Probable bugsJava</id>
-          </State>
-          <State>
-            <id>Probable bugsKotlin</id>
-          </State>
-          <State>
-            <id>SecurityJava</id>
-          </State>
-          <State>
-            <id>Serialization issuesJava</id>
-          </State>
-          <State>
-            <id>Spelling</id>
-          </State>
-          <State>
-            <id>TestNGJava</id>
-          </State>
-          <State>
-            <id>XML</id>
+            <id>XMLSpring CoreSpring</id>
           </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>DanglingJavadoc</id>
+            <id>XMLSpring CoreSpring</id>
           </State>
         </selected-state>
       </profile-state>

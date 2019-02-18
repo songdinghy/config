@@ -128,6 +128,12 @@
   <inspection_tool class="SpringBootBootstrapConfigurationInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="SpringFacetProgrammaticInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="SpringJavaAutowiredFieldsWarningInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SpringJavaAutowiredMembersInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SpringJavaConstructorAutowiringInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="SpringJavaInjectionPointsAutowiringInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="SpringJavaStaticMembersAutowiringInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SpringXmlAutowireExplicitlyInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SpringXmlAutowiringInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="SuspiciousAsDynamic" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="SuspiciousEqualsCombination" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="TestFunctionName" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
